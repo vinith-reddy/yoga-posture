@@ -1,6 +1,6 @@
 # Yoga Pose Detection Web Application
 
-![Yoga Pose Detection](sampl.png)
+![Yoga Pose Detection](sample.png)
 
 ## Overview
 
