@@ -24,7 +24,7 @@ This web application uses Flask, Mediapipe, and machine learning to detect yoga 
 ## Installation
 - Clone the repository:
   ```
-  git clone https://github.com/your-username/Yoga-Pose-Detection.git
+  git clone https://github.com/vinith-reddy/Yoga-Pose-Detection.git
   cd Yoga-Pose-Detection
   ```
 
