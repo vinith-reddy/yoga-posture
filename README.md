@@ -17,19 +17,19 @@ This web application uses Flask, Mediapipe, and machine learning to detect yoga 
 
 - Python 3.7 or higher
 - Install required dependencies:
-'''bash
+  '''bash
   pip install -r requirements.txt
 
 
 ## Installation
 - Clone the repository:
-'''bash
+  '''bash
   git clone https://github.com/your-username/Yoga-Pose-Detection.git
   cd Yoga-Pose-Detection
 
 
 ## Install dependencies:
-'''bash
+  '''bash
   pip install -r requirements.txt
 
 ## Usage
